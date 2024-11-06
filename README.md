@@ -1,4 +1,4 @@
-# Series Queues with infinite capacity - Open Jackson Network
+# EX 06 : Series Queues with infinite capacity - Open Jackson Network
 # DATE :
 
 ## Aim :
